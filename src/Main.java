@@ -2,6 +2,7 @@ package src;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Na maika ti guza");
+        System.out.println("ZDR2");
     }
+
 }
